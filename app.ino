@@ -19,8 +19,8 @@
 // static const uint8_t D9   = 3;
 // static const uint8_t D10  = 1;
 
-const char* ssid = "horsekilden8";
-const char* password = "whatmeworry";
+const char* ssid = "HomeBox-5100_2.4G";
+const char* password = "71c91afee";
  
 #define LED_PIN 13 // D7
 #define DHT_PIN 2 // D4
